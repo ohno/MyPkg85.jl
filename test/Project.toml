@@ -1,0 +1,6 @@
+[deps]
+MyPkg85 = "cb6c7d98-c8a0-4314-a5f5-4d9497691eb0"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[compat]
+Test = "1"
